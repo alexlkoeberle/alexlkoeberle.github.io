@@ -1,11 +1,15 @@
 ---
-title: "alex-koeberle.github.io"
+title: "Alex Koeberle"
 ---
 
-This is a Quarto website.
+I am a Postdoctoral Associate in the Natural Resources and the Environment 
+Section at Cornell University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I work in fisheries ecology and conservation, and use quantitative techniques
+in population ecology and ecosystem science to address fisheries sustainability.
+My present research explores fisheries restoration in the Great Lakes from a 
+food web perspective.
 
-```{r}
-1 + 1
-```
+Before my current position, I completed my PhD in Natural Resources at Cornell
+and my MS in Fisheries Science at Oregon State. I earned my BS in Natural 
+Resources from Cornell. 
