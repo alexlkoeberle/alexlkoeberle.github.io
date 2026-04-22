@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Alex Koeberle",
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
     "section": "",
-    "text": "I am a Postdoctoral Associate in the Natural Resources and the Environment Section at Cornell University.\nI work in fisheries ecology and conservation, and use quantitative techniques in population ecology and ecosystem science to address fisheries sustainability. My present research explores fisheries restoration in the Great Lakes from a food web perspective.\nBefore my current position, I completed my PhD in Natural Resources at Cornell and my MS in Fisheries Science at Oregon State. I earned my BS in Natural Resources from Cornell."
+    "text": "Small tags + whole lake acoustic telemetry Environmental DNA"
+  },
+  {
+    "objectID": "Research.html#emerging-field-techniques-to-improve-fish-monitoring",
+    "href": "Research.html#emerging-field-techniques-to-improve-fish-monitoring",
+    "title": "Research",
+    "section": "",
+    "text": "Small tags + whole lake acoustic telemetry Environmental DNA"
+  },
+  {
+    "objectID": "Research.html#population-modeling-to-evaluate-restoration-success",
+    "href": "Research.html#population-modeling-to-evaluate-restoration-success",
+    "title": "Research",
+    "section": "Population modeling to evaluate restoration success",
+    "text": "Population modeling to evaluate restoration success\nPVA in Keuka Lake"
+  },
+  {
+    "objectID": "Research.html#ecosystem-based-models",
+    "href": "Research.html#ecosystem-based-models",
+    "title": "Research",
+    "section": "Ecosystem-based models",
+    "text": "Ecosystem-based models\nLinear inverse modeling"
   },
   {
     "objectID": "about.html",
@@ -12,5 +33,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alex L. Koeberle",
+    "section": "",
+    "text": "I am a Postdoctoral Associate in the Natural Resources and the Environment Section at Cornell University.\nI work in fisheries and aquatic ecology, and am interested in applying quantitative methods from population ecology and ecosystem science to address fisheries sustainability. My present research explores food web restoration in the Great Lakes basin.\nBefore my current position, I completed my PhD in Natural Resources at Cornell and MS in Fisheries Science at Oregon State. I earned my BS in Natural Resources from Cornell.\nContact: alk239@cornell.edu"
   }
 ]
